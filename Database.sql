@@ -1,3 +1,4 @@
+##This code is for how to create a Mysql code
 CREATE DATABASE kpa_backend;
 USE kpa_backend;
 
