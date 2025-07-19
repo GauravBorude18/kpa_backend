@@ -69,7 +69,9 @@ Visit: http://127.0.0.1:8000
 
 ### 1. POST /form_data
 - Method: POST
-- Example: http://127.0.0.1:8000/form_data?name=Guru&phone=9876543210
+    ## Mobile name and mobile name
+- Example: http://127.0.0.1:8000/form_data?name=Guru&phone=98765432xx
+
 
 ### 2. GET /form_data
 - Method: GET
