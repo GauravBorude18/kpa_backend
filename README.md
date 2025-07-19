@@ -16,7 +16,7 @@ This project implements simple POST and GET APIs using FastAPI and MySQL to stor
 
 ### 1. Clone or Download the Project
 ```bash
-git clone <your-repo-link>
+git clone <(https://github.com/GauravBorude18/kpa_backend.git)>
 cd kpa_backend
 ```
 
